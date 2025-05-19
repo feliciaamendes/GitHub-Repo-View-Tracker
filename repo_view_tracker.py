@@ -8,6 +8,7 @@ from github import Github, GithubException
 REPOSITORIES_TO_TRACK = [
     "Pritz69/LeetCode-Solutions",
     "Pritz69/GFG_POTD",
+    "Pritz69/GitHub-Repo-View-Tracker",
     "Pritz69/UNFOLLOW-GITHUB-USERS-WHO-DONT-FOLLOW-US",
     "Pritz69/EmployeeManagementSystem-FULL-STACK-CRUD",
     "Pritz69/Newton-School-POTD",
