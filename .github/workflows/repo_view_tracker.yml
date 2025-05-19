@@ -30,14 +30,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Pritz69"
+          git config --global user.email "pritz1824@gmail.com"
           git add repo_views.json
           git commit -m "Update repo view counts (Automated)" || echo "No changes to commit"
 
-          # Setting up direct authentication using PAT
+          # Use HTTPS with your personal access token for pushing
           git remote set-url origin https://Pritz69:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/Pritz69/GitHub-Repo-View-Tracker.git
           git push origin main
+
 
 
 
