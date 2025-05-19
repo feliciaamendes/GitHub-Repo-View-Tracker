@@ -20,9 +20,6 @@ jobs:
       - name: Install Dependencies
         run: pip install PyGithub
 
-      - name: Install GitHub CLI
-        run: sudo apt-get install gh -y
-
       - name: Run the Tracker Script
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
@@ -38,9 +35,9 @@ jobs:
           git add repo_views.json
           git commit -m "Update repo view counts (Automated)" || echo "No changes to commit"
 
-          # Using GitHub CLI (gh) for authenticated push
-          echo "${GITHUB_TOKEN}" | gh auth login --with-token
-          gh repo set-default Pritz69/GitHub-Repo-View-Tracker
-          gh repo sync --source main --force
+          # Setting up direct authentication using PAT
+          git remote set-url origin https://Pritz69:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/Pritz69/GitHub-Repo-View-Tracker.git
+          git push origin main
+
 
 
