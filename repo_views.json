@@ -6,9 +6,9 @@
         "cumulative_views": 7
     },
     "Pritz69/GFG_POTD": {
-        "total_views_last_14_days": 138,
+        "total_views_last_14_days": 135,
         "last_recorded_total": 138,
-        "views_diff_last_run": 0,
+        "views_diff_last_run": -3,
         "cumulative_views": 138
     },
     "Pritz69/UNFOLLOW-GITHUB-USERS-WHO-DONT-FOLLOW-US": {
@@ -30,22 +30,22 @@
         "cumulative_views": 4
     },
     "Pritz69/5011251": {
-        "total_views_last_14_days": 2,
+        "total_views_last_14_days": 1,
         "last_recorded_total": 2,
-        "views_diff_last_run": 0,
+        "views_diff_last_run": -1,
         "cumulative_views": 2
     },
     "Pritz69/Portfolio_Website": {
-        "total_views_last_14_days": 4,
+        "total_views_last_14_days": 5,
         "last_recorded_total": 4,
-        "views_diff_last_run": 0,
-        "cumulative_views": 4
+        "views_diff_last_run": 1,
+        "cumulative_views": 5
     },
     "Pritz69/LeetCode-JS-30DaysChallenge": {
-        "total_views_last_14_days": 22,
+        "total_views_last_14_days": 25,
         "last_recorded_total": 22,
-        "views_diff_last_run": 0,
-        "cumulative_views": 22
+        "views_diff_last_run": 3,
+        "cumulative_views": 25
     },
     "Pritz69/Calculator": {
         "total_views_last_14_days": 0,
@@ -84,9 +84,9 @@
         "cumulative_views": 0
     },
     "Pritz69/GitHub-Repo-View-Tracker": {
-        "total_views_last_14_days": 158,
-        "last_recorded_total": 0,
-        "views_diff_last_run": 158,
-        "cumulative_views": 158
+        "total_views_last_14_days": 178,
+        "last_recorded_total": 158,
+        "views_diff_last_run": 20,
+        "cumulative_views": 178
     }
 }
